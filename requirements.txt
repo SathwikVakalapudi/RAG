@@ -1,0 +1,8 @@
+pdfplumber
+langchain
+langchain-core
+langchain-chroma
+langchain-groq
+tiktoken
+cohere
+chromadb
